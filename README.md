@@ -12,7 +12,7 @@
 <p>I have used an Arduino Uno R3 to power the circuit, other than that 12v of external power supply was also given</p>
 <p>I've provided the necessary GRBL file.</p>
 
-<! Add an image of the Actual Hardware Circuit and Tinkercad Circuit>
+<!-- Add an image of the Actual Hardware Circuit and Tinkercad Circuit -->
 
 <ol>Procedure
 <li>Install the Arduino IDE</li>
