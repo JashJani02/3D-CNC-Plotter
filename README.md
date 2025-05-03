@@ -13,6 +13,9 @@
 <p>I've provided the necessary GRBL file.</p>
 
 <!-- Add an image of the Actual Hardware Circuit and Tinkercad Circuit -->
+![CNC Plotter Tinker circuit](https://github.com/user-attachments/assets/e438ef4d-7f9c-447b-90b2-b8d53e51ce96)
+
+
 
 <ol>Procedure
 <li>Install the Arduino IDE</li>
