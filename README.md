@@ -6,7 +6,7 @@
   <li><a href="https://www.arduino.cc/en/software/#ide" target="_blank">Arduino IDE (Legacy IDE (1.8.X))</a></li>
   <li><a href="https://github.com/winder/Universal-G-Code-Sender?tab=readme-ov-file">Universal G-Code Sender</a></li>
   <li><a href="https://github.com/TGit-Tech/GRBL-28byj-48" target="_blank">GRBL</a></li>
-  <li><a href="https://inkscape.org/release/inkscape-1.4/windows/64-bit/msi/" target="1">Inkscape</a></li>
+  <li><a href="https://inkscape.org/release/inkscape-1.4/windows/64-bit/msi/" target="_blank">Inkscape</a></li>
   <li><a href="https://jscut.org/jscut.html" target="_blank">JS-Cut</a></li>
 </ol><hr>
 <p>I have used an Arduino Uno R3 to power the circuit, other than that 12v of external power supply was also given</p>
