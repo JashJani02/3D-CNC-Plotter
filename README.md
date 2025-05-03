@@ -36,5 +36,5 @@
 <li>Click the plug-like icon to Connect the firmware</li>
 <li>In the down right corner, in a dark backdrop, the text "IDLE" would be displayed if it is connected successfully</li>
 <li>In the top panel of this software, there would be a Visualizer, click it to Visualize the process of printing process</li>
-<li>Click a point in your Visualizer window, which displays your output --> right click --> Set toolpath, with this ur printer will start printing instantly instead of travelling to it and then carrying out that process</li>
+<li>Click a point in your Visualizer window, which displays your output --> right click --> Set toolpath, with this your printer will start printing instantly instead of travelling to it and then carrying out that process</li>
 </ol>
