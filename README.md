@@ -3,11 +3,11 @@
 
 # Software Requirements
 <ol>
-  <li>Arduino IDE</li>
+  <li>Arduino IDE (Legacy IDE (1.8.X)) <a href="https://www.arduino.cc/en/software/#ide">Link</a></li>
   <li>Universal G-Code Sender</li>
-  <li>GRBL</li>
-  <li>Inkscape</li>
-  <li>JS-Cut</li>
+  <li>GRBL <a href="https://github.com/TGit-Tech/GRBL-28byj-48">Link</a></li>
+  <li>Inkscape <a href="https://inkscape.org/release/inkscape-1.4/windows/64-bit/msi/">Link</a></li>
+  <li>JS-Cut <a href="https://jscut.org/jscut.html">Link</a></li>
 </ol><hr>
 <p>I have used an Arduino Uno R3 to power the circuit, other than that 12v of external power supply was also given</p>
 <p>I've provided the necessary GRBL file.</p>
@@ -18,7 +18,7 @@
 
 
 <ol>Procedure
-<li>Install the Arduino IDE(Legacy IDE (1.8.X))</li>
+<li>Install the Arduino IDE</li>
 <li>Include the downloaded GRBL ZIP file</li>
 <li>After including the GRBL ZIP File, go to File ---> Examples ---> grbl --> grblUpload </li>
 <li>Upload the code</li>
