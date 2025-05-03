@@ -18,7 +18,7 @@
 
 
 <ol>Procedure
-<li>Install the Arduino IDE</li>
+<li>Install the Arduino IDE(Legacy IDE (1.8.X))</li>
 <li>Include the downloaded GRBL ZIP file</li>
 <li>After including the GRBL ZIP File, go to File ---> Examples ---> grbl --> grblUpload </li>
 <li>Upload the code</li>
