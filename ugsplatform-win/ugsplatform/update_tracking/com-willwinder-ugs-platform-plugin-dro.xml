@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.willwinder.ugs.platform.plugin.dro">
+    <module_version install_time="1742326199570" last="true" origin="installer" specification_version="2.0.0.2025.03.18.19.27">
+        <file crc="1620792005" name="config/Modules/com-willwinder-ugs-platform-plugin-dro.xml"/>
+        <file crc="906237367" name="modules/com-willwinder-ugs-platform-plugin-dro.jar"/>
+        <file crc="2111236877" name="modules/ext/com.willwinder.ugs-platform-plugin-dro/com-miglayout/miglayout-core.jar"/>
+        <file crc="1172287255" name="modules/ext/com.willwinder.ugs-platform-plugin-dro/com-miglayout/miglayout-swing.jar"/>
+    </module_version>
+</module>
