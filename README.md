@@ -1,7 +1,7 @@
-## 3D-CNC-Plotter
+# 3D-CNC-Plotter
 <p>This a Hardware project demonstrating the built and functionality of a Make-shift 3D CNC Plotter</p>
 
-# Software Requirements
+## Software Requirements
 <ol>
   <li><a href="https://www.arduino.cc/en/software/#ide" target="_blank">Arduino IDE (Legacy IDE (1.8.X))</a></li>
   <li><a href="https://github.com/winder/Universal-G-Code-Sender?tab=readme-ov-file">Universal G-Code Sender</a></li>
@@ -17,7 +17,7 @@
 
 
 
-<ol>Procedure
+<ol><h2>Procedure</h2>
 <li>Install the Arduino IDE</li>
 <li>Include the downloaded GRBL ZIP file</li>
 <li>After including the GRBL ZIP File, go to File ---> Examples ---> grbl --> grblUpload </li>
